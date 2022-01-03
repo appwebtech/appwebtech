@@ -18,7 +18,7 @@
 <img align="left" alt="AWS" width="60px" src="https://github.com/appwebtech/Ansible-Integration-Jenkins/blob/main/images/aws-logo.png" />
 <img align="left" alt="AZURE" width="50px" src="https://github.com/appwebtech/Azure-DevOps/blob/main/images/azure-logo.png" />
 <img align="left" alt="PROMETHEUS" width="50px" src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/logo/terminal.png" />
-<img align="left" alt="GIT" width="80px" src="https://github.com/appwebtech/Build-Automation-Jenkins/blob/main/images/Git-Logo.png"/>
+<img align="left" alt="GIT" width="80px" src="https://github.com/appwebtech/Ansible-Integration-Jenkins/blob/main/images/git-Logo.png"/>
 <img align="left" alt="ANSIBLE" width="80px" src="https://github.com/appwebtech/Ansible-Automation-App-Deployment/blob/main/images/Ansible-logo.png" />
 
 <br>
