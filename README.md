@@ -26,7 +26,9 @@
 <img align="left" alt="GRAFANA" width="50px" src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/prometheus/Grafana.png" />
 
 
-
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
