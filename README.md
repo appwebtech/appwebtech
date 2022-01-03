@@ -1,36 +1,48 @@
-<h1 align="center">Hi 👋, I'm Joseph</h1>
-<h3 align="center">A passionate tech enthusiast from Manchester (UK)</h3>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://#) 
 
-I have worked previously with various web technologies and I'm currently focused on **Cloud Computing**.
+<!-- Intro</h3> -->
+### Hello, I am Joseph Mwania 👋
+[![Linkedin Badge](https://img.shields.io/badge/-jmmwania-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmmwania/)](https://www.linkedin.com/in/jmmwania/)
+[![Gmail Badge](https://img.shields.io/badge/-josembi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josembi@gmail.com)](mailto:josembi@gmail.com) 
+
+- 🎯 Portfolio website: [Portfolio](https://#)
+- 💬 Ask me about anything, I am happy to help :smile:
+- 🌱 I'm currently learning Kubernetes
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/jmmwania/)
+
+### Technology Stacks and Tools:
+
+<img align="left" alt="LINUX" width="50px" src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/logo/linux_logo.png" />
+<img align="left" alt="DOCKER" width="70px" src="https://github.com/appwebtech/Deploy-Docker-With-Terraform/blob/main/images/docker.png" />
+<img align="left" alt="PYTHON" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="K8s" width="50px" src="https://github.com/appwebtech/EKS-Cluster-With-Terraform/blob/main/images/k8s-logo.png" />
+<img align="left" alt="TERRAFORM" width="50px" src="https://github.com/appwebtech/EKS-Cluster-With-Terraform/blob/main/images/tf-logo.png" />
+<img align="left" alt="AWS" width="60px" src="https://github.com/appwebtech/Ansible-Integration-Jenkins/blob/main/images/aws-logo.png" />
+<img align="left" alt="AZURE" width="50px" src="https://github.com/appwebtech/Azure-DevOps/blob/main/images/azure-logo.png" />
+<img align="left" alt="PROMETHEUS" width="50px" src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/logo/terminal.png" />
+<img align="left" alt="GIT" width="80px" src="https://github.com/appwebtech/Build-Automation-Jenkins/blob/main/images/Git-Logo.png"/>
+<img align="left" alt="ANSIBLE" width="80px" src="https://github.com/appwebtech/Ansible-Automation-App-Deployment/blob/main/images/Ansible-logo.png" />
+<img align="left" alt="PROMETHEUS" width="50px" src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/prometheus/prometheus-logo.png" />
+<img align="left" alt="GRAFANA" width="50px" src="https://github.com/appwebtech/Monitoring-Kubernetes-With-Prometheus/blob/main/prometheus/Grafana.png" />
 
 
-- 🔭 I’m currently working on **AWS** automation
 
-- 🌱 I’m currently learning **IaC**
-
-- 💬 Ask me about **AWS, Web Dev**
-
-- 📫 How to reach me **See Footer**
-
-- ⚡ Fun fact **I love learning whilst helping others to learn**
 <br>
-<hr/>
-
-![GitHub metrics](https://metrics.lecoq.io/appwebtech)
 <br>
-<hr/>
+<br>
+<br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=appwebtech)
+### Things I love:
+- Cloud Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Learning whilst helping others to learn ✍️
 
 
-<hr/>
-<br/>
+### :zap: Github Stats
+<p>
+    <a href="https://gitstats.me/varadbhogayata" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=appwebtech&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    </a>
+</p>
 
 
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/appwebtech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jmmwania//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/appwebtech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/appwebtech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='40'>](https://www.credly.com/users/joseph-musembi-mwania.74b502c5/badges)
-  
-
-  
- ![Profile views](https://gpvc.arturio.dev/appwebtech)
-
+![Profile views](https://gpvc.arturio.dev/appwebtech)
