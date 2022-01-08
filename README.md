@@ -51,5 +51,4 @@
     </a>
 </p>
 
-
-![Profile views](https://gpvc.arturio.dev/appwebtech)
+![Profile views:](https://komarev.com/ghpvc/?username=appwebtech&color=red)
