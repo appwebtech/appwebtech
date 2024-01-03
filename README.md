@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-jmmwania-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmmwania/)](https://www.linkedin.com/in/jmmwania/)
 [![Gmail Badge](https://img.shields.io/badge/-josembi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josembi@gmail.com)](mailto:josembi@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://appwebtech.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://josephmwania.com)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🌱 I'm currently learning Kubernetes
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/jmmwania/)
